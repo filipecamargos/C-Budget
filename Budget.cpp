@@ -1,17 +1,3 @@
-/***********************************************************************
-* Program:
-*    Project 04, Monthly Budget  
-*    Brother Christensen, CS124
-* Author:
-*    Filipe Ferreira
-* Summary: 
-*    This program manage personal finances for a month. This program will
-*    ask you for your budget income and expenditures, then the program
-*    will make the caculation and display a report.
-*    Estimated:  1.0 hrs   
-*    Actual:     1.0 hrs
-*      The most difficult was understand parametes of fuctions
-************************************************************************/
 
 #include <iostream>
 #include <iomanip>
